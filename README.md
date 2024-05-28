@@ -1,3 +1,5 @@
+The data needs to be reworked slighly to display the data correctly for some items, I didn't want to waste too much time on this. I need to add a quantity to the items that have serving quantity too options (sandwiches and tacos).
+
 ## Steps to run 
 
 npm i
